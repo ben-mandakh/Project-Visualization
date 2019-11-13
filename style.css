@@ -1,0 +1,113 @@
+.body{
+  margin: auto;
+}
+.jumbotron {
+  margin-bottom: 45px;
+  height: 565px;
+  
+}
+
+
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+.jumbotron h1{
+
+  margin-top: -50px;
+  font-weight: bold;
+  margin-left: 25px;
+  font-size: 40px;
+  display: inline-block;
+  vertical-align: top;
+}
+.nav p{
+
+  margin-top: -60px;
+  /* font-weight: bold; */
+  margin-left: 25px;
+  font-size: 14px;
+  display: inline-block;
+  vertical-align: top;
+}
+.nav button{
+
+  margin-top: -64px;
+  font-weight: bold;
+  margin-left: 25px;
+  height: 35px; */
+  /* display: inline-block; */
+  /* vertical-align: top; */
+  /* /* text-align: center; */
+  /* border-radius:5px; */
+}
+.nav{
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 900px;
+}
+.search{
+
+  margin-top: 115px;
+  margin-left: 75px;
+  display: inline-block;
+  vertical-align: top;
+ 
+}
+.search h2{
+  font-size: 35px;
+}
+.carousel{
+  display: inline-block;
+  margin-left: 78px;
+  width: 680px;
+  height: 0px;
+  vertical-align: top;
+}
+.card{
+  display: inline-block;
+  vertical-align: top;
+}
+.container{
+  margin-top: 65px;
+  
+}
+.panel-body{
+  border: 0.5px solid gray;
+}
+.panel-footer{
+  border: 0.5px solid gray;
+  border-top: none;
+  
+}
+.panel-footer h6{
+  margin-left: 15px;
+  margin-top: 2px;
+  padding: 5px;
+}
+.pagination{
+  margin-left: 550px;
+  margin-top: 65px;
+}
+.panel-footer h7{
+  margin-left: 125px;
+  margin-top: 2px;
+  padding: 8px;
+  display: inline-block;
+  color: green;
+  font-weight: bold;
+  vertical-align: top;
+  /* margin-top: -30px; */
+}
+.checked {
+  color: orange;
+}
+.panel-footer span{
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.row{
+  margin-top: 35px;
+}
